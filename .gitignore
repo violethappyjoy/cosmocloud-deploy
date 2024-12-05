@@ -1,0 +1,13 @@
+.DS_Store
+.git/
+.bzr/
+.bzrignore
+.hg/
+.hgignore
+.svn/
+*.swp
+*.bak
+*.tmp
+*.orig
+*~
+.env
